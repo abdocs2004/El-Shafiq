@@ -17,7 +17,7 @@ export default function ServicesSection() {
         {/* صورة توضيحية */}
         <div className="w-full lg:w-1/2 shadow-lg rounded-xl overflow-hidden">
           <div className="bg-gray-200 h-[300px] flex items-center justify-center text-gray-500 text-lg">
-            <img src="/assets/quality-service.png" alt="خدمة ذات جودة عالية" className="object-contain"/>
+            <img src="/assets/quality-service.jpg" alt="خدمة ذات جودة عالية" className="object-contain"/>
           </div>
         </div>
 
