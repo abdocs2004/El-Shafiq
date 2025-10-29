@@ -4,7 +4,7 @@ export default function HomeSection() {
       id="home"
       className="h-screen flex flex-col items-center justify-center text-white relative"
       style={{
-        backgroundImage: "url('/assets/hero-bg.jpg')",
+        backgroundImage: "url('/assets/hero-bg.webp')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
